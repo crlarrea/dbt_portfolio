@@ -1,0 +1,7 @@
+sources:
+  - name: rudderstack
+    database: cidobiyi
+    schema: portfolio
+    tables:
+      - name: pages
+        identifier: pages
