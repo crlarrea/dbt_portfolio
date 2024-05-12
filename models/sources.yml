@@ -1,0 +1,7 @@
+sources:
+  - name: rudderstack
+    database: postgres
+    schema: rudderstack
+    tables:
+      - name: pages
+        identifier: pages
